@@ -1,3 +1,5 @@
+# Metamogs & The Mogaverse
+
 # Our Vision
 
 When we started with the initial idea of the Metamogs it was just a cool little idea. We then looked at many other projects and thought about what we could do to push this further into something unique using our skill sets.
