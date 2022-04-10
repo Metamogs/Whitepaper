@@ -1,4 +1,4 @@
-# Metamogs & The Mogaverse
+# Whitepaper
 
 # Our Vision
 
