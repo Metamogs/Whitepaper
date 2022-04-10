@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+When we started with the initial idea of the Metamogs it was just a cool little idea. We then looked at many other projects and thought about what we could do to push this further into something unique using our skill sets.
 
-You can use the [editor on GitHub](https://github.com/Metamogs/Whitepaper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We came up with the Mogaverse. Our vision is to create a Decentralized Peer-to-peer Metaverse using Unreal Engine 5 that is truly owned by you. A universe where NFT owners can Buy, Rent & Create on land ranging from a simple home to something more advanced like games. Not only this but we want every NFT collection to feel part of the Mogaverse by allowing them to buy a planet for their collection and build upon it using their own assets to create their own unique world creating a true Metaverse experience where all NFT collections can interact with each other inside the Mogaverse. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Metamogs/Whitepaper/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We want to give all NFT Creators and opportunity to truly unite all NFT collections within one ever-growing world
